@@ -1,2 +1,0 @@
-# Asteroids_ServerSide
-lol
